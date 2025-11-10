@@ -1,4 +1,4 @@
-# ¡Bienvenido a **Ixeh**!
+# ¡Bienvenido a **Fractal**!
 
 > **Transformamos empresas a través de la Inteligencia Artificial y la automatización inteligente.**
 
